@@ -1,4 +1,3 @@
-# Ford-Fulkerson-Maximum-Flow-Algorithm
 # Maximum Flow Calculation using Ford-Fulkerson Algorithm
 
 ## Table of Contents
@@ -100,7 +99,7 @@ Here's an example input file for a graph:
 
 ## Contact Information
 
-Please [contact me](mailto:luckyhstar67@gmail.com) if you have any queries or comments.
+Please [contact me](mailto:eet232189@iitd.ac.in) if you have any queries or comments.
 
 
 ## Acknowledgments
